@@ -1,4 +1,4 @@
-
+﻿
 package main
 
 import "fmt"
@@ -15,6 +15,7 @@ func main() {
 	fmt.Printf("The first element is %d\n", c[0]) 
 	fmt.Printf("The first element is %d\n", doubleArray[0][3]) 
 	fmt.Printf("The first element is %d\n",	doubleArray[1][3])
+	fmt.Println("Hello World!")
 	sl1 = bet[2:5]
 	sl2 = bet[0:3]
 	fmt.Printf("The first element is %d\n",sl2[0])
