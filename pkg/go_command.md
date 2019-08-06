@@ -701,17 +701,3 @@ exe: 构建列出的 main 包及其导入到可执行文件中的一切。 将�
 
 
 关于动态库，笔者还没有实践过，这里就不继续深入了，以后充分实践后，再开一篇单独的文章谈谈 Go 的动态链接。这里只是想说明一点，Go 目前不仅仅只有静态链接，动态链接也支持了！
-
-
-------------------------------------------------------
-
-Reference：  
-[《GO 命令教程》](https://github.com/hyper0x/go_command_tutorial)  
-《Go 并发编程实战》
-
-
-> GitHub Repo：[Halfrost-Field](https://github.com/halfrost/Halfrost-Field)
-> 
-> Follow: [halfrost · GitHub](https://github.com/halfrost)
->
-> Source: [https://halfrost.com/go\_command/](https://halfrost.com/go_command/)
