@@ -6,3 +6,8 @@ roadmap
 | -------- | ----- | ---- |
 |          |       |      |
 
+----
+
+### version control sys
+
+- list you dir init a .git version sorage
