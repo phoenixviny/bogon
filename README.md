@@ -11,3 +11,7 @@ roadmap
 ### version control sys
 
 - list you dir init a .git version sorage
+###database
+- first datatype
+- second datatype
+
