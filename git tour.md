@@ -1,4 +1,4 @@
-###git tourial 
+###		git tourial 
 #####	initialliazie
 -	$git clone username@host:/path/to/repository   /*clone a exist repository*/
 -	$mkdir repo && cd repo  $git init              /*init a repository named repo*/
