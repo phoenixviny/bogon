@@ -2,9 +2,12 @@
 
 roadmap
 
-| datatype | inter | 23   |
-| -------- | ----- | ---- |
-|          |       |      |
+| datatype         | inter | 23   |      |      |      |
+| :--------------- | :---- | :--- | ---- | ---- | ---- |
+| order_id         | int   | 32   |      |      |      |
+| fee_subject_code | char  | 32   |      |      |      |
+| fee_subject_name | char  | 32   |      |      |      |
+| rate_percent     | numic | 2    |      |      |      |
 
 ----
 
